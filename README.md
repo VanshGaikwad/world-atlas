@@ -17,3 +17,5 @@ create error page
 done with navigation
 
 done with hero section
+
+now moving toward contact page 
