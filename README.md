@@ -15,3 +15,5 @@ create folder for components and also build ui folder
 create error page
 
 done with navigation
+
+done with hero section
