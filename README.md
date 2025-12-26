@@ -19,3 +19,7 @@ done with navigation
 done with hero section
 
 now moving toward contact page 
+done with contact page and footer
+
+
+now moving toward footer
